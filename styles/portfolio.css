@@ -18,6 +18,19 @@
     padding: 18px 35px;
 }
 
+.btn-secondary {
+    background: #ffffff;
+    color: #FD6E0A;
+    height: 64px;
+    border-radius: 5px;
+    outline: 1px solid #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    border: 0;
+    padding: 18px 35px;
+    margin-left: 30px;
+}
+
 .header {
     background: #FFF8F3;
     background-image: url('../images/header_bg.png'), url('../images/developer.png');
