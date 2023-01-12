@@ -243,3 +243,16 @@ input {
     text-decoration: none;
     padding-right: 20px;
 }
+
+
+/* responsive */
+
+@media screen and (max-width: 576px) {
+    .skills-container,
+    .resume-content {
+        flex-direction: column;
+        padding: 10px 20px;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 992px) {}
